@@ -12,7 +12,6 @@ ITEM.EquipMenuData = {
 	desc = "You can glide!"
 }
 ITEM.material = "vgui/ttt/icon_parachute"
-ITEM.notBuyable = true
 ITEM.CanBuy = {ROLE_TRAITOR, ROLE_DETECTIVE}
 
 if SERVER then
